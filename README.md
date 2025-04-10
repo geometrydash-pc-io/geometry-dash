@@ -1,4 +1,4 @@
-# geometry-dash
+# Geometry Dash
 Since its initial release in 2013, Geometry Dash has cemented itself as one of the most iconic rhythm-based platformers in mobile and PC gaming.
 Developed by Swedish developer Robert Topala under his company RobTop Games, the game quickly rose to popularity for its simple mechanics, vibrant visuals, and infamously challenging levels. What makes Geometry Dash unique is how it fuses fast-paced platforming with rhythm-based gameplay, creating an experience that's both frustratingly difficult and deeply satisfying.
 <p></p>
